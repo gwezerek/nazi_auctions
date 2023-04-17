@@ -6,15 +6,15 @@ nazi_listings,auctioneer_url,lat,lng,address,city,zip,state
 1592,https://www.liveauctioneers.com/auctioneer/6202/rare-treasures/,40.292,-76.8072,7 Rutherford Rd.,Harrisburg,17109,PA
 1139,https://www.liveauctioneers.com/auctioneer/287/alexander-historical-auctions-llc/,39.5273,-75.8121,98 Bohemia Avenue Suite Two,Chesapeake City,21915,MD
 776,https://www.liveauctioneers.com/auctioneer/7031/valkyrie-historical-auctions/,33.3092,-111.821,,Chandler,85225,AZ
-657,https://www.liveauctioneers.com/auctioneer/1022/mohawk-arms-inc/,42.3657,-97.5608,6819 U.S. 20 PO Box 157,Bouckville,13310,NY
+657,https://www.liveauctioneers.com/auctioneer/1022/mohawk-arms-inc/,42.89075157,-75.54610203,6819 U.S. 20 PO Box 157,Bouckville,13310,NY
 412,https://www.liveauctioneers.com/auctioneer/1225/martin-auction-co/,37.4645,-89.2228,100 Lick Creek Road PO Box 2,Anna,62906,IL
-377,https://www.liveauctioneers.com/auctioneer/1409/arus-auctions/,42.3482,-71.5544,39 Ledgewood Rd ,Framingham,01701,MA
+377,https://www.liveauctioneers.com/auctioneer/1409/arus-auctions/,42.3482,-71.5544,39 Ledgewood Rd ,Framingham,1701,MA
 330,https://www.liveauctioneers.com/auctioneer/6717/beachwood-auctions-llc/,41.3535,-81.4753,7630 Bond Street,SOLON,44139,OH
 329,https://www.liveauctioneers.com/auctioneer/6038/vn-collectible/,48.99,-122.727,1927 Boblett Street,Blaine,98230,WA
 285,https://www.liveauctioneers.com/auctioneer/6975/antique-arena-inc/,40.5855,-73.9607,2910 Coney Island Ave 1st Floor,Brooklyn,11235,NY
 225,https://www.liveauctioneers.com/auctioneer/2431/omega-auction-corp/,25.8576,-80.3161,1669 W. 39th Place,Hialeah,33012,FL
 206,https://www.liveauctioneers.com/auctioneer/1215/smrj-auctions/,34.047024,-118.253142,606 South Hill Street Suite 607,Los Angeles,90014,CA
-189,https://www.liveauctioneers.com/auctioneer/2228/arcollectibles/,42.0382,-72.5604,Springfield,Springfield,01108,MA
+189,https://www.liveauctioneers.com/auctioneer/2228/arcollectibles/,42.0382,-72.5604,Springfield,Springfield,1108,MA
 159,https://www.liveauctioneers.com/auctioneer/7440/fairhill-auction-llc/,39.6101,-75.824,227 E Main St,ELKTON,21921,MD
 140,https://www.liveauctioneers.com/auctioneer/249/dan-morphy-auctions/,40.2204,-76.1017,2000 N Reading Road,Denver,17517,PA
 137,https://www.liveauctioneers.com/auctioneer/902/old-toy-soldier-auctions-usa/,40.3747,-80.0703,P.O. Box 13323,Pittsburgh,15243,PA
@@ -27,7 +27,7 @@ nazi_listings,auctioneer_url,lat,lng,address,city,zip,state
 70,https://www.liveauctioneers.com/auctioneer/6056/rapid-estate-liquidators-and-auction-gallery/,28.5783,-81.4114,2305 Silver Star Road,Orlando,32804,FL
 69,https://www.liveauctioneers.com/auctioneer/1395/kraft-auction-service/,41.4409,-86.9798,48 N 450 E,Valparaiso,46383,IN
 62,https://www.liveauctioneers.com/auctioneer/444/regency-superior-ltd/,38.687199,-90.238344,229 N. Euclid Ave,St. Louis,63108-1505,MO
-61,https://www.liveauctioneers.com/auctioneer/1265/saco-river-auction/,43.5913,-70.3334,27 Gorham Rd Suite 212,Scarborough,04074,ME
+61,https://www.liveauctioneers.com/auctioneer/1265/saco-river-auction/,43.5913,-70.3334,27 Gorham Rd Suite 212,Scarborough,4074,ME
 60,https://www.liveauctioneers.com/auctioneer/857/stephenson-s-auction/,40.1621,-75.0414,1005 Industrial Blvd.,Southampton,18966,PA
 57,https://www.liveauctioneers.com/auctioneer/2058/burns-auction-and-appraisal-llc/,39.7137,-82.5993,3739 Old Columbus Rd. NW,Carroll,43112,OH
 52,https://www.liveauctioneers.com/auctioneer/1250/embassy-auctions-international/,39.9832,-76.0185,5336 Mine Road,Kinzers,17535,PA
@@ -37,21 +37,21 @@ nazi_listings,auctioneer_url,lat,lng,address,city,zip,state
 48,https://www.liveauctioneers.com/auctioneer/1308/cates-auction-and-realty-co-inc/,38.9305,-94.3109,1440 Iron St.,N. Kansas City,64116,MO
 47,https://www.liveauctioneers.com/auctioneer/941/leonard-auction-inc/,41.918,-87.9941,502 S. Westgate St.,Addison,60101,IL
 46,https://www.liveauctioneers.com/auctioneer/21/austin-auction-gallery/,30.485129,-97.852617,8414 Anderson Mill Road,Austin,78729-5479,TX
-46,https://www.liveauctioneers.com/auctioneer/712/the-written-word-autographs/,43.885,-71.3458,564 Pease Hill Rd P. O. Box 490,Tamworth,03886,NH
+46,https://www.liveauctioneers.com/auctioneer/712/the-written-word-autographs/,43.885,-71.3458,564 Pease Hill Rd P. O. Box 490,Tamworth,3886,NH
 44,https://www.liveauctioneers.com/auctioneer/1938/east-coast-auctions/,41.1513,-73.9417,17 N. Rockland Ave Building W,Congers,10989,NY
-43,https://www.liveauctioneers.com/auctioneer/1165/antiques-at-pompey-hollow-llc/,41.8626,-72.1654,48 Pompey Hollow Road,Ashford,06278,CT
+43,https://www.liveauctioneers.com/auctioneer/1165/antiques-at-pompey-hollow-llc/,41.8626,-72.1654,48 Pompey Hollow Road,Ashford,6278,CT
 40,https://www.liveauctioneers.com/auctioneer/3256/lakeland-antique-bazaar/,27.9525,-81.9695,P o box 5354,Lakeland,33807,FL
 38,https://www.liveauctioneers.com/auctioneer/1373/akiba-galleries/,26.0527,-80.1444,12 NW 1st Ave,Dania Beach,33004,FL
 37,https://www.liveauctioneers.com/auctioneer/6036/e-and-e-auctions/,42.4248,-74.6439,27482 NY State Route 23,Stamford,12167,NY
 36,https://www.liveauctioneers.com/auctioneer/456/bs-slosberg-inc-auctioneers/,39.9873,-75.0957,3455 Edgemont St,Philadelphia,19134,PA
-34,https://www.liveauctioneers.com/auctioneer/3514/j-james-auctioneers-and-appraisers/,41.9655,-70.677,190 Court St,Plymouth,02360,MA
-34,https://www.liveauctioneers.com/auctioneer/6203/poulin-antiques-and-auctions/,44.615,-69.5939,199 U.S. 201,Fairfield,04937,ME
+34,https://www.liveauctioneers.com/auctioneer/3514/j-james-auctioneers-and-appraisers/,41.9655,-70.677,190 Court St,Plymouth,2360,MA
+34,https://www.liveauctioneers.com/auctioneer/6203/poulin-antiques-and-auctions/,44.615,-69.5939,199 U.S. 201,Fairfield,4937,ME
 33,https://www.liveauctioneers.com/auctioneer/1125/rock-island-auction/,41.4432,-90.625,7819 42nd Street W,Rock Island,61201,IL
 33,https://www.liveauctioneers.com/auctioneer/376/todd-mueller-autographs-inc/,38.9811,-104.681,10250 Huntsman Road ,Colorado Springs,80908,CO
 32,https://www.liveauctioneers.com/auctioneer/1350/vero-beach-auction/,27.6108,-80.3893,492 Old Dixie Highway,Vero Beach,32962,FL
 30,https://www.liveauctioneers.com/auctioneer/135/signature-house/,34.10426,-117.668943,818 N. MOUNTAIN AVE #201,UPLAND,91786,CA
 29,https://www.liveauctioneers.com/auctioneer/3370/blackswan-antiques/,42.525,-83.5504,50586 PONTIAC TRAIL SUITE XC16,WIXOM,48393,MI
-29,https://www.liveauctioneers.com/auctioneer/1087/merrill-s-auctioneers-and-appraisers/,44.4751,-73.1163,PO Box 558,Williston,05495,VT
+29,https://www.liveauctioneers.com/auctioneer/1087/merrill-s-auctioneers-and-appraisers/,44.4751,-73.1163,PO Box 558,Williston,5495,VT
 29,https://www.liveauctioneers.com/auctioneer/378/pook-and-pook-inc/,40.011951,-75.695341,463 East Lancaster Ave.,Downingtown,19335,PA
 27,https://www.liveauctioneers.com/auctioneer/46/cowan-s-auctions/,39.1635,-84.4134,5030 Oaklawn Dr,Cincinnati,45227,OH
 27,https://www.liveauctioneers.com/auctioneer/5577/house-of-treasure/,39.0221,-77.41,45969 Nokes Blvd,Sterling,20166,VA
@@ -67,11 +67,11 @@ nazi_listings,auctioneer_url,lat,lng,address,city,zip,state
 23,https://www.liveauctioneers.com/auctioneer/114/phoebus-auction-gallery/,37.018128,-76.322108,18 East Mellen Street,Hampton,23663,VA
 23,https://www.liveauctioneers.com/auctioneer/4651/corbett-s-auction-house/,39.6272,-105.012,4921 S Santa Fe Dr,Littleton,80120,CO
 22,https://www.liveauctioneers.com/auctioneer/942/hartzell-s-auction-gallery-inc/,40.7399,-75.1398,521 Richmond Road ,Bangor,18013,PA
-22,https://www.liveauctioneers.com/auctioneer/1044/fontaine-s-auction-gallery/,42.4307,-73.3175,1485 West Housatonic St.,Pittsfield,01201,MA
+22,https://www.liveauctioneers.com/auctioneer/1044/fontaine-s-auction-gallery/,42.4307,-73.3175,1485 West Housatonic St.,Pittsfield,1201,MA
 22,https://www.liveauctioneers.com/auctioneer/2863/baker-s-antiques-and-auctions/,40.757,-73.1078,4770 Sunrise Hwy.,Bohemia,11716,NY
 20,https://www.liveauctioneers.com/auctioneer/1301/fox-auctions/,38.033,-122.267,P.O. Box 693,Rodeo,94572,CA
 20,https://www.liveauctioneers.com/auctioneer/175/alderfer-auction/,40.2718,-75.3173,501 Fairgrounds Road,Hatfield,19440,PA
-19,https://www.liveauctioneers.com/auctioneer/867/flying-pig-auctions/,42.9853,-72.3781,13 Industrial Park Dr,Westmoreland ,03467,NH
+19,https://www.liveauctioneers.com/auctioneer/867/flying-pig-auctions/,42.9853,-72.3781,13 Industrial Park Dr,Westmoreland ,3467,NH
 19,https://www.liveauctioneers.com/auctioneer/840/dotta-auction-co-inc/,40.8022,-75.3465,330 W. Moorestown Road,Nazareth,18064,PA
 18,https://www.liveauctioneers.com/auctioneer/1910/connoisseur-auctions/,34.26,-85.17,P.O. Box 849,Rome,30162,GA
 18,https://www.liveauctioneers.com/auctioneer/286/forsythes-auctions-llc/,38.867,-83.7909,206 W Main St P.O. Box 188,Russellville,45168,OH
@@ -88,7 +88,7 @@ nazi_listings,auctioneer_url,lat,lng,address,city,zip,state
 14,https://www.liveauctioneers.com/auctioneer/989/seized-assets-auctioneers/,34.2252,-119.024,725 Via Alondra,Camarillo,93012,CA
 14,https://www.liveauctioneers.com/auctioneer/686/midwest-auction-galleries-inc/,42.839139,-83.274539,925 N. Lapeer Road,Oxford,48371,MI
 14,https://www.liveauctioneers.com/auctioneer/6266/kamy-inc/,25.81,-80.3248,3901 NW 79TH Ave,Miami,33166,FL
-14,https://www.liveauctioneers.com/auctioneer/351/the-cobbs-auctioneers-llc/,42.8597,-71.962,at Historic Noone Falls Mill 50 Jaffrey Road,Peterborough,03458,NH
+14,https://www.liveauctioneers.com/auctioneer/351/the-cobbs-auctioneers-llc/,42.8597,-71.962,at Historic Noone Falls Mill 50 Jaffrey Road,Peterborough,3458,NH
 14,https://www.liveauctioneers.com/auctioneer/4247/sofe-design-auctions-llc/,32.9457,-96.7356,401 S. Sherman St. Ste. # 221,Richardson,75081,TX
 14,https://www.liveauctioneers.com/auctioneer/2211/miami-auction-gallery/,25.734,-80.3801,11455 sw 40th st. Suite # 208,Miami,33165,FL
 13,https://www.liveauctioneers.com/auctioneer/7316/cny-militaria-and-collectibles-auctions-llc/,42.9931,-76.0719,PO Box 774 6499 E. Seneca Turnpike,Jamesville,13078,NY
@@ -96,7 +96,7 @@ nazi_listings,auctioneer_url,lat,lng,address,city,zip,state
 13,https://www.liveauctioneers.com/auctioneer/3058/sabertooth-auctions/,36.6175,-88.3253,804 Coldwater Rd,Murray,42071,KY
 13,https://www.liveauctioneers.com/auctioneer/610/nette-auctions/,41.407483,-73.469648,45 West St Lower Level-Rear,Danbury,6810,CT
 12,https://www.liveauctioneers.com/auctioneer/523/alex-cooper/,39.4079,-76.6079,908 York Road,Towson,21204,MD
-12,https://www.liveauctioneers.com/auctioneer/301/john-mcinnis-auctioneers-llc/,42.8565,-70.9311,76 Main Street,Amesbury,01913,MA
+12,https://www.liveauctioneers.com/auctioneer/301/john-mcinnis-auctioneers-llc/,42.8565,-70.9311,76 Main Street,Amesbury,1913,MA
 12,https://www.liveauctioneers.com/auctioneer/3807/lemar-auctions-and-estate-services/,38.6489,-121.417,4522 Parker Avenue Suite 500,McClellan,95652,CA
 12,https://www.liveauctioneers.com/auctioneer/7015/toystrainsandotheroldstuff-llc/,40.6089,-87.3605,1951 W Division Rd,Fowler,47944,IN
 12,https://www.liveauctioneers.com/auctioneer/431/national-book-auctions/,42.429387,-76.497421,1429 Danby Road,Ithaca,14850-6071,NY
@@ -104,7 +104,7 @@ nazi_listings,auctioneer_url,lat,lng,address,city,zip,state
 11,https://www.liveauctioneers.com/auctioneer/1290/estate-auction-company/,26.052,-80.1441,6 S. Federal Hwy,Dania Beach,33004,FL
 11,https://www.liveauctioneers.com/auctioneer/7060/gun-auctions-usa/,27.893,-82.7476,13200 Belcher Rd South,Largo,33773,FL
 11,https://www.liveauctioneers.com/auctioneer/275/john-coker-ltd/,36.0895,-83.5878,508 Union Ave. Unit 206,Knoxville,37902,TN
-11,https://www.liveauctioneers.com/auctioneer/700/central-street-antiques-and-auction/,41.852,-72.6437,25 Central Street,Windsor,06095,CT
+11,https://www.liveauctioneers.com/auctioneer/700/central-street-antiques-and-auction/,41.852,-72.6437,25 Central Street,Windsor,6095,CT
 11,https://www.liveauctioneers.com/auctioneer/3195/ye-olde-auction-block/,34.4103,-118.912,408 ARUNDELL CIR,FILLMORE,93015,CA
 11,https://www.liveauctioneers.com/auctioneer/4561/wrights-estate-liquidations/,38.5644,-121.357,9220 Vancouver Drive,Sacramento,95826,CA
-11,https://www.liveauctioneers.com/auctioneer/5847/americana-auctions/,41.844,-71.2608,380 Winthrop Street,Rehoboth,02769,MA
+11,https://www.liveauctioneers.com/auctioneer/5847/americana-auctions/,41.844,-71.2608,380 Winthrop Street,Rehoboth,2769,MA
